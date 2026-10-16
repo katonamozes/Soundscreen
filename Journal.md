@@ -14,4 +14,4 @@ When I knew all of this I started making the schematic for the PCB in KiCad and 
 So I had drawn up the schematic, routed the PCB and when I ran the DRC it spit out 9 errors. One of which was that I forgot to add edges, this was a quick and easy fix. The others were about some pins being too close. Turns out the footprint I chose for the microphone and voltage regulator were designed in a way that the pins were almost touching. This wasn't a huge deal as I got to learn how to use the footprint editor and I fixed the footprints myself.
 
 In the 2 hours that I spent on this I now have a schematic and a PCB. ![Picture of the PCB in kicad's 3D PCB viewer](./Pictures/PCB3D.png)
-I still need to make the BOM, Upload more pictures, update the readme and make a full BOM. I also need to make the software, I think that will be the biggest challenge but I'm sure I will figure it out. 
+I still need to make the BOM, Upload more pictures, update the readme and make a full BOM. I also need to make the software, I think that will be the biggest challenge but I'm sure I will figure it out. Also here is a timelaps of everything: https://lapse.hackclub.com/timelapse/xK5NwR8BoDDO 
